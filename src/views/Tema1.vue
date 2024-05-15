@@ -32,7 +32,7 @@
 
                   .tarjeta.bg5
                     .p-4 
-                      h5.mb-4.pt-4.text-center #[mark.bg4.px-2.p-1 Rutas de atención]
+                      h5.mb-4.pt-4.text-center #[mark.bg4.px-2.m-1.p-1 Rutas de atención]
                       ul.lista-ul.fa-ul
                         li 
                           i.fas.fa-check-circle.color1
@@ -54,7 +54,7 @@
 
                   .tarjeta.bg5
                     .p-4 
-                      h5.mb-4.pt-4.text-center #[mark.bg4.px-2.p-1 Denuncia en las siguientes instituciones]
+                      h5.mb-4.pt-4.text-center #[mark.bg4.px-2.m-1.p-1 Denuncia en las siguientes instituciones]
                       p Denuncie en cualquiera de las siguientes instituciones de forma directa
                       ul.lista-ul.fa-ul
                         li 
@@ -73,7 +73,7 @@
 
                   .tarjeta.bg5
                     .p-4 
-                      h5.mb-4.pt-4.text-center #[mark.bg4.px-2.p-1 Atención medica integral]
+                      h5.mb-4.pt-4.text-center #[mark.bg4.px-2.m-1.p-1 Atención medica integral]
                       ul.lista-ul.fa-ul
                         li 
                           i.fas.fa-check-circle.color1
@@ -229,7 +229,7 @@
 
           .tarjeta.bg5
             .p-4 
-              h5.mb-4.pt-4.text-center #[mark.bg4.px-2.p-1 Líneas y medios de denuncia y atención]
+              h5.mb-4.pt-4.text-center #[mark.bg4.px-2.m-1.p-1 Líneas y medios de denuncia y atención]
               ul.lista-ul.fa-ul
                 li 
                   i.fas.fa-check-circle.color1
@@ -249,7 +249,7 @@
 
           .tarjeta.bg5
             .p-4 
-              h5.mb-4.pt-4.text-center #[mark.bg4.px-2.p-1 Denuncia en las siguientes instituciones]
+              h5.mb-4.pt-4.text-center #[mark.bg4.px-2.m-1.p-1 Denuncia en las siguientes instituciones]
               p Denuncie en cualquiera de las siguientes instituciones de forma directa
               ul.lista-ul.fa-ul
                 li 
@@ -272,7 +272,7 @@
 
           .tarjeta.bg5
             .p-4 
-              h5.mb-4.pt-4.text-center #[mark.bg4.px-2.p-1 Atención medica integral]
+              h5.mb-4.pt-4.text-center #[mark.bg4.px-2.m-1.p-1 Atención medica integral]
               ul.lista-ul.fa-ul
                 li 
                   i.fas.fa-check-circle.color1

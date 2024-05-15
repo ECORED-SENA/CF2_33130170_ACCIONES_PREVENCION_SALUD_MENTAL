@@ -73,37 +73,43 @@
             h3.mb-0 ¿Cuál es el papel de la familia en el desarrollo del amor propio?
     p(data-aos="fade-down") La familia está llamada a #[b enseñar a amar], esta es la #[b esencia de las relaciones humanas] y por sencillo que parezca, es la falla más común en las familias. 
 
-    h5.my-5(data-aos="fade-down") #[mark.bg4.px-2.p-1.brad1 ¿Por qué hay fallas en el sistema familiar? ]   
+    h5.my-5(data-aos="fade-down") #[mark.bg4.px-2.m-1.p-1.brad1 ¿Por qué hay fallas en el sistema familiar? ]   
 
     .row.mb-5
       .col-sm-6.col-xl-4.mb-4.mb-xl-0
-        .tarjeta.tarjeta-flip.bg8(@mouseover="indicadorTarjetaFlip = false")
+        .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
-            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/32.svg')})`}")
+            .tarjeta-flip__img.bg21
+              h5.py-5.text-center #[mark.px-3.m-1.p-1.bgw Experiencias propias] 
+              img.img-a.img-t(src='@/assets/curso/temas/32.svg', alt='')  
             .tarjeta-flip__contenido.p-4.p-xl-5
-              h5.mb-4.text-center #[mark.bgw.px-2.p-1 Experiencias propias]
+              h5.mb-4.text-center #[mark.bgw.px-3.m-1.p-1 Experiencias propias]
               p Cuando las personas han tenido historias de violencia intrafamiliar, abuso y maltrato, los patrones e imaginarios que se crean están enmarcados en este tipo de relaciones y por lo general es el modelo que se sigue al construir una nueva familia. Sin embargo, esto no es una condena, lo contrario también sucede, es decir, que se trata de hacer lo opuesto a lo que se vivió. 
 
       .col-sm-6.col-xl-4.mb-4.mb-xl-0
-        .tarjeta.tarjeta-flip.bg8(@mouseover="indicadorTarjetaFlip = false")
+        .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
-            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/33.svg')})`}")
+            .tarjeta-flip__img.bg21
+              h5.py-5.text-center #[mark.px-3.m-1.p-1.bgw Entorno violento – historia como sociedad ] 
+              img.img-a.img-t(src='@/assets/curso/temas/33.svg', alt='')  
             .tarjeta-flip__contenido.p-4.p-xl-5
-              h5.mb-4.text-center #[mark.bgw.px-2.p-1 Entorno violento – historia como sociedad]
+              h5.mb-4.text-center #[mark.bgw.px-3.m-1.p-1 Entorno violento – historia como sociedad]
               p Colombia se ha vivido marcada por una historia de violencia social, que ha enseñado a solucionar los conflictos, vía eliminación del otro. Se han naturalizado estas prácticas y se asumen como normales en muchos entornos. Pelear, tratar mal a las personas, ser agresivos, decir malas palabras, son actitudes que no se cuestionan. 
 
       .col-sm-6.col-xl-4.mb-4.mb-xl-0
-        .tarjeta.tarjeta-flip.bg8(@mouseover="indicadorTarjetaFlip = false")
+        .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
-            .tarjeta-flip__img(:style="{'background-image': `url(${require('@/assets/curso/temas/34.svg')})`}")
+            .tarjeta-flip__img.bg21
+              h5.py-5.text-center #[mark.px-3.m-1.p-1.bgw Medios de comunicación] 
+              img.img-a.img-t(src='@/assets/curso/temas/34.svg', alt='')  
             .tarjeta-flip__contenido.p-4.p-xl-5
-              h5.mb-4.text-center #[mark.bgw.px-2.p-1 Medios de comunicación]
+              h5.mb-4.text-center #[mark.bgw.px-3.m-1.p-1.p-1 Medios de comunicación]
               p Ejercen una influencia directa sobre la construcción de estereotipos, forma de hacer y ver las cosas. Noticias de violencia y abuso a diario, novelas que recrean formas de relación de pareja basadas en el desequilibrio y las marcadas relaciones de poder.  
 
-    h5.my-5(data-aos="fade-down") #[mark.bg4.px-2.p-1.brad1 ¿Qué se requiere de la familia para construir amor propio? ]
+    h5.my-5(data-aos="fade-down") #[mark.bg4.px-2.m-1.p-1.brad1 ¿Qué se requiere de la familia para construir amor propio? ]
 
     .row.bg12.align-items-center.mb-5
       .col-lg-12.col-12.px-lg-5.p-5 
@@ -198,7 +204,7 @@
           .col.my-3
             p(data-aos="fade-down").mb-0 Ética del cuidado significa entonces observar con atención, denunciar, dialogar, involucrarse en los asuntos del otro, para preservar la vida e integridad de la persona.  
 
-    h5.my-5(data-aos="fade-down") #[mark.bg4.px-2.p-1.brad1 ¿Qué debemos cuidar? ]  
+    h5.my-5(data-aos="fade-down") #[mark.bg4.px-2.m-1.p-1.brad1 ¿Qué debemos cuidar? ]  
 
     .row.justify-content-center.mb-4
       .col-lg-5.my-3.p-0.bg5

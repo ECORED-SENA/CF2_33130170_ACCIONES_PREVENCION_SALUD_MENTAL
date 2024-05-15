@@ -356,3 +356,18 @@
 
 .banner-interno__titulo__icono i
   color: white !important    
+
+.bg21
+  background-color: #D9E9E0  
+
+.tarjeta-flip
+  &:hover 
+    .tarjeta-flip__contenedor
+      transform: rotateY(180deg)
+      backface-visibility: hidden 
+
+  &__contenido
+    transform: rotateY(180deg)
+    height: 100% 
+    background-color: #E6D567
+    

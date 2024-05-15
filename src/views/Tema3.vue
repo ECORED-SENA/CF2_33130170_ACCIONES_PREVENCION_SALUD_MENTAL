@@ -10,7 +10,7 @@
       .col-lg-12.col-12.px-lg-5.px-4 
         .row.justify-content-center.align-items-center          
           .col-lg-12  
-            p(data-aos="fade-down").mb-4 El estrés no suele ser una situación negativa para la vida de las personas, es más éste es una respuesta natural de los seres humanos a situaciones nuevas. El problema radica en la cronicidad o frecuencia de éste, las reacciones individuales y los efectos.     
+            p(data-aos="fade-down").mb-4 El estrés no suele ser una situación negativa para la vida de las personas, es más, éste es una respuesta natural de los seres humanos a situaciones nuevas. El problema radica en la cronicidad o frecuencia de éste, las reacciones individuales y los efectos.     
             .row.justify-content-start.mb-4
               .col-auto(data-aos="flip-down")
                 .list
@@ -29,7 +29,7 @@
                 p(data-aos="fade-down") Cada sustancia tiene un efecto particular y cada consumidor busca la sustancia de acuerdo con las necesidades individuales que requiera satisfacer.
                 img.img-t.mov(src='@/assets/curso/temas/7.png', alt='') 
 
-            h5.my-5(data-aos="fade-down") #[mark.bg4.px-2.p-1.brad1 ¿Cómo mitigar entonces estos riesgos? ]  
+            h5.my-5(data-aos="fade-down") #[mark.bg4.px-2.m-1.p-1.brad1 ¿Cómo mitigar entonces estos riesgos? ]  
 
             .row.bg12.align-items-center.mb-5
               .col-lg-12.col-12.px-lg-5.p-5 
@@ -81,9 +81,9 @@
                   .list__txt.bgicon.p-0.px-4
                     h3.mb-0 Guía para la realización del plan de acción personal  
 
-            h5.my-5(data-aos="fade-down") #[mark.bg4.px-2.p-1.brad1 Plan de acción en familia ] 
+            h5.my-5(data-aos="fade-down") #[mark.bg4.px-2.m-1.p-1.brad1 Plan de acción en familia ] 
 
-            p(data-aos="fade-down").mb-5 Lo siguiente es accionar, (#[b llevar a la práctica] ) mediante un plan que oriente, por ello la invitación para desarrollar el #[b auto diagnóstico] , que permitirá identificar las condiciones propias de la vida, la individualidad, el entorno familiar y social, y que puede estar afectando la salud y calidad de vida, para orientar este autodiagnóstico, tenemos una serie de preguntas que responder, la invitación para que escriba en un texto y guarde sus respuestas: 
+            p(data-aos="fade-down").mb-5 Lo siguiente es accionar, (#[b llevar a la práctica] ) mediante un plan que oriente, por ello la invitación para desarrollar el #[b autodiagnóstico], que permitirá identificar las condiciones propias de la vida, la individualidad, el entorno familiar y social, y que pueden estar afectando la salud y calidad de vida. Para orientar este autodiagnóstico, tenemos una serie de preguntas que responder, la invitación para que escriba en un texto y guarde sus respuestas: 
             .row.justify-content-center
               .col-lg-8
                 .row.justify-content-center.bg9.p-3.brad.mb-4
@@ -93,7 +93,7 @@
                         .col-lg-auto
                           img.img-a.img-t(src='@/assets/curso/temas/51.png', alt="")
                         .col  
-                          p.mb-0 ¿ Como me veo ?
+                          p.mb-0 ¿ Cómo me veo ?
                   .col-lg-4.my-3
                     .bgw.p-2.h-100.brad
                       .row.justify-content-center.align-items-center
@@ -109,7 +109,7 @@
                         .col  
                           p.mb-0 ¿ Qué pienso de mi ?
 
-                h5.my-5(data-aos="fade-down") #[mark.bg4.px-2.p-1.brad1 Mi mayor fortaleza]   
+                h5.my-5(data-aos="fade-down") #[mark.bg4.px-2.m-1.p-1.brad1 Mi mayor fortaleza]   
 
                 .row.justify-content-center.bg9.p-3.brad.mb-4
                   .col-lg-4.my-3
@@ -160,7 +160,7 @@
               tr.bgb
                 td ¿Cómo demuestro el afecto en mi familia?  
                 td ¿He hecho cosas que debo ocultar por mis amigos?         
-                td ¿Realizo ejercicio físico, con qué frecuencia?
+                td ¿Realizo ejercicio físico? ¿con qué frecuencia?
                 
     .row.justify-content-start.mb-4
       .col-auto(data-aos="flip-down")
@@ -171,7 +171,7 @@
           .list__txt.bgicon.p-0.px-4
             h3.mb-0 Determinación de metas a corto y mediano plazo
 
-    p(data-aos="fade-down") Para determinar metas debemos dar claridad a la importancia de que estas sean medibles alcanzables. Para establecer objetivos a corto y mediano plazo, es necesario partir de la reflexión realizada en el autodiagnóstico. 
+    p(data-aos="fade-down") Para determinar metas, debemos dar claridad a la importancia de que estas sean medibles y alcanzables. Para establecer objetivos a corto y mediano plazo, es necesario partir de la reflexión realizada en el autodiagnóstico. 
 
     .row.justify-content-center
       .col-lg-10
@@ -180,7 +180,7 @@
             img.img-a.img-t(src='@/assets/curso/temas/22.svg', alt='')                   
           .col.my-3
             h5.t1(data-aos="fade-down") Para ello tendremos en cuenta que: 
-            p(data-aos="fade-down").mb-0 Un objetivo es una acción realizable y medible, que debe redactar con un verbo en infinitivo. Deben responder a lo que se quiere cambiar, mejorar, dejar sentir en los diferentes aspectos de la vida.
+            p(data-aos="fade-down").mb-0 Un objetivo es una acción realizable y medible, que se debe redactar con un verbo en infinitivo. Deben responder a lo que se quiere cambiar, mejorar, dejar sentir en los diferentes aspectos de la vida.
 
     .row.bg19.align-items-center
       .col-lg-12.col-12.px-lg-5.px-4 
@@ -253,7 +253,7 @@
           .list__txt.bgicon.p-0.px-4
             h3.mb-0 Identificación de habilidades individuales 
 
-    p(data-aos="fade-down").mb-5 Este proceso le permitirá identificar las fortalezas y habilidades que le ayudaran a enfocar sus gustos y preferencias.  Cada persona desarrolla capacidades distintas, de esta manera, alguien que es muy bueno académicamente puede tener grandes problemas para relacionarse.   
+    p(data-aos="fade-down").mb-5 Este proceso le permitirá identificar las fortalezas y habilidades que le ayudarán a enfocar sus gustos y preferencias.  Cada persona desarrolla capacidades distintas, de esta manera, alguien que es muy bueno académicamente puede tener grandes problemas para relacionarse.   
 
     .row.justify-content-center
       .col-lg-8.mb-5
