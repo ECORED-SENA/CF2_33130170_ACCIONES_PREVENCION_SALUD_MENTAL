@@ -54,7 +54,7 @@
 
                   .tarjeta.bg5
                     .p-4 
-                      h5.mb-4.pt-4.text-center #[mark.bg4.px-2.m-1.p-1 Denuncia en las siguientes instituciones]
+                      h5.mb-4.pt-4.text-center #[mark.bg4.px-2.m-2.p-1 Denuncia en las siguientes instituciones]
                       p Denuncie en cualquiera de las siguientes instituciones de forma directa
                       ul.lista-ul.fa-ul
                         li 
