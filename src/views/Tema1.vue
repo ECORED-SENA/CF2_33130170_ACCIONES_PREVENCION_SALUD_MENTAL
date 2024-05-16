@@ -32,7 +32,9 @@
 
                   .tarjeta.bg5
                     .p-4 
-                      h5.mb-4.pt-4.text-center #[mark.bg4.px-2.m-1.p-1 Rutas de atención]
+                      .row.justify-content-center
+                        .col-auto.mb-4.pt-4.bg4.px-2.m-1.p-1(data-aos="flip-down")
+                          h5.text-center Rutas de atención
                       ul.lista-ul.fa-ul
                         li 
                           i.fas.fa-check-circle.color1
@@ -55,8 +57,8 @@
                   .tarjeta.bg5
                     .p-4
                       .row.justify-content-center
-                        .col-auto.bg4.px-2.m-1.p-1(data-aos="flip-down")
-                          h5.mb-4.pt-4.text-center Denuncia en las siguientes instituciones
+                        .col-auto.mb-4.pt-4.bg4.px-2.m-1.p-1(data-aos="flip-down")
+                          h5.text-center Denuncia en las siguientes instituciones
                       p Denuncie en cualquiera de las siguientes instituciones de forma directa
                       ul.lista-ul.fa-ul
                         li 
@@ -75,7 +77,9 @@
 
                   .tarjeta.bg5
                     .p-4 
-                      h5.mb-4.pt-4.text-center #[mark.bg4.px-2.m-1.p-1 Atención medica integral]
+                      .row.justify-content-center
+                        .col-auto.mb-4.pt-4.bg4.px-2.m-1.p-1(data-aos="flip-down")
+                          h5.text-center Atención medica integral
                       ul.lista-ul.fa-ul
                         li 
                           i.fas.fa-check-circle.color1
@@ -130,7 +134,9 @@
 
           .tarjeta.bg2
             .p-4 
-              h5.mb-4.pt-4.text-center #[mark.bg8.px-2.p-1 Líneas y medios de denuncia y atención]
+              .row.justify-content-center
+                .col-auto.mb-4.pt-4.bg8.px-2.m-1.p-1(data-aos="flip-down")
+                  h5.text-center Líneas y medios de denuncia y atención
               ul.lista-ul.fa-ul
                 li 
                   i.fas.fa-check-circle.color1
@@ -159,7 +165,9 @@
 
           .tarjeta.bg2
             .p-4 
-              h5.mb-4.pt-4.text-center #[mark.bg8.px-2.p-1 Denuncia en las siguientes instituciones]
+              .row.justify-content-center
+                .col-auto.mb-4.pt-4.bg8.px-2.m-1.p-1(data-aos="flip-down")
+                  h5.text-center Denuncia en las siguientes instituciones
               ul.lista-ul.fa-ul
                 li 
                   i.fas.fa-check-circle.color1
@@ -184,7 +192,9 @@
 
           .tarjeta.bg2
             .p-4 
-              h5.mb-4.pt-4.text-center #[mark.bg8.px-2.p-1 Atención medica integral]
+              .row.justify-content-center
+                .col-auto.mb-4.pt-4.bg8.px-2.m-1.p-1(data-aos="flip-down")
+                  h5.text-center Atención medica integral
               ul.lista-ul.fa-ul
                 li 
                   i.fas.fa-check-circle.color1
@@ -231,7 +241,9 @@
 
           .tarjeta.bg5
             .p-4 
-              h5.mb-4.pt-4.text-center #[mark.bg4.px-2.m-1.p-1 Líneas y medios de denuncia y atención]
+              .row.justify-content-center
+                .col-auto.mb-4.pt-4.bg4.px-2.m-1.p-1(data-aos="flip-down")
+                  h5.text-center Líneas y medios de denuncia y atención
               ul.lista-ul.fa-ul
                 li 
                   i.fas.fa-check-circle.color1
@@ -250,8 +262,9 @@
           img(src='@/assets/curso/temas/10.png' alt='AvatarTop')
 
           .tarjeta.bg5
-            .p-4 
-              h5.mb-4.pt-4.text-center #[mark.bg4.px-2.m-1.p-1 Denuncia en las siguientes instituciones]
+            .row.justify-content-center
+              .col-auto.mb-4.pt-4.bg4.px-2.m-1.p-1(data-aos="flip-down")
+                h5.text-center Denuncia en las siguientes instituciones
               p Denuncie en cualquiera de las siguientes instituciones de forma directa
               ul.lista-ul.fa-ul
                 li 
@@ -274,7 +287,9 @@
 
           .tarjeta.bg5
             .p-4 
-              h5.mb-4.pt-4.text-center #[mark.bg4.px-2.m-1.p-1 Atención medica integral]
+              .row.justify-content-center
+                .col-auto.mb-4.pt-4.bg4.px-2.m-1.p-1(data-aos="flip-down")
+                  h5.text-center Atención medica integral
               ul.lista-ul.fa-ul
                 li 
                   i.fas.fa-check-circle.color1
