@@ -25,7 +25,7 @@
             p(data-aos="fade-down") Cuando se produce un acto de violencia intrafamiliar y se vulneran los derechos de algún integrante, es importante conocer los derechos que amparan a la víctima: el derecho a ser escuchado, a recibir atención digna, a obtener asesoría jurídica y psicológica y a solicitar o recibir medidas de protección.    
             h5.mb-5(data-aos="fade-down") Ante casos de violencia, se deben tomar las siguientes acciones:  
 
-            .row.mb-5
+            .row.justify-content-center.mb-5
               .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="fade-right")
                 .tarjeta-avatar
                   img(src='@/assets/curso/temas/9.png' alt='AvatarTop')
@@ -33,8 +33,8 @@
                   .tarjeta.bg5
                     .p-4 
                       .row.justify-content-center
-                        .col-auto.mb-4.pt-4.bg4.px-2.m-1.p-1(data-aos="flip-down")
-                          h5.text-center Rutas de atención
+                        .col-auto.my-4.bg4.px-2.m-1.p-1(data-aos="flip-down")
+                          h5.text-center.mb-0 Rutas de atención
                       ul.lista-ul.fa-ul
                         li 
                           i.fas.fa-check-circle.color1
@@ -57,8 +57,8 @@
                   .tarjeta.bg5
                     .p-4
                       .row.justify-content-center
-                        .col-auto.mb-4.pt-4.bg4.px-2.m-1.p-1(data-aos="flip-down")
-                          h5.text-center Denuncia en las siguientes instituciones
+                        .col-auto.my-4.bg4.px-2.m-1.p-1(data-aos="flip-down")
+                          h5.text-center.mb-0 Denuncia en las siguientes instituciones
                       p Denuncie en cualquiera de las siguientes instituciones de forma directa
                       ul.lista-ul.fa-ul
                         li 
@@ -78,8 +78,8 @@
                   .tarjeta.bg5
                     .p-4 
                       .row.justify-content-center
-                        .col-auto.mb-4.pt-4.bg4.px-2.m-1.p-1(data-aos="flip-down")
-                          h5.text-center Atención medica integral
+                        .col-auto.my-4.bg4.px-2.m-1.p-1(data-aos="flip-down")
+                          h5.text-center.mb-0 Atención medica integral
                       ul.lista-ul.fa-ul
                         li 
                           i.fas.fa-check-circle.color1
@@ -127,7 +127,7 @@
 
     h5.mb-5(data-aos="fade-down") Ante casos de maltrato infantil se deben tomar las siguientes acciones: 
 
-    .row.mb-5
+    .row.justify-content-center.mb-5
       .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="fade-right")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/9.png' alt='AvatarTop')
@@ -135,8 +135,8 @@
           .tarjeta.bg2
             .p-4 
               .row.justify-content-center
-                .col-auto.mb-4.pt-4.bg8.px-2.m-1.p-1(data-aos="flip-down")
-                  h5.text-center Líneas y medios de denuncia y atención
+                .col-auto.my-4.bg8.px-2.m-1.p-1(data-aos="flip-down")
+                  h5.text-center.mb-0 Líneas y medios de denuncia y atención
               ul.lista-ul.fa-ul
                 li 
                   i.fas.fa-check-circle.color1
@@ -166,8 +166,8 @@
           .tarjeta.bg2
             .p-4 
               .row.justify-content-center
-                .col-auto.mb-4.pt-4.bg8.px-2.m-1.p-1(data-aos="flip-down")
-                  h5.text-center Denuncia en las siguientes instituciones
+                .col-auto.my-4.bg8.px-2.m-1.p-1(data-aos="flip-down")
+                  h5.text-center.mb-0 Denuncia en las siguientes instituciones
               ul.lista-ul.fa-ul
                 li 
                   i.fas.fa-check-circle.color1
@@ -193,8 +193,8 @@
           .tarjeta.bg2
             .p-4 
               .row.justify-content-center
-                .col-auto.mb-4.pt-4.bg8.px-2.m-1.p-1(data-aos="flip-down")
-                  h5.text-center Atención medica integral
+                .col-auto.my-4.bg8.px-2.m-1.p-1(data-aos="flip-down")
+                  h5.text-center.mb-0 Atención medica integral
               ul.lista-ul.fa-ul
                 li 
                   i.fas.fa-check-circle.color1
@@ -234,7 +234,7 @@
 
     h5.mb-5(data-aos="fade-down") Ante casos de violencia contra la mujer se deben tomar las siguientes acciones:
 
-    .row.mb-5
+    .row.justify-content-center.mb-5
       .col-md-6.col-lg.mb-5.mb-lg-0(data-aos="fade-right")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/9.png' alt='AvatarTop')
@@ -242,8 +242,8 @@
           .tarjeta.bg5
             .p-4 
               .row.justify-content-center
-                .col-auto.mb-4.pt-4.bg4.px-2.m-1.p-1(data-aos="flip-down")
-                  h5.text-center Líneas y medios de denuncia y atención
+                .col-auto.my-4.bg4.px-2.m-1.p-1(data-aos="flip-down")
+                  h5.text-center.mb-0 Líneas y medios de denuncia y atención
               ul.lista-ul.fa-ul
                 li 
                   i.fas.fa-check-circle.color1
@@ -262,9 +262,10 @@
           img(src='@/assets/curso/temas/10.png' alt='AvatarTop')
 
           .tarjeta.bg5
-            .row.justify-content-center
-              .col-auto.mb-4.pt-4.bg4.px-2.m-1.p-1(data-aos="flip-down")
-                h5.text-center Denuncia en las siguientes instituciones
+            .p-4          
+              .row.justify-content-center
+                .col-auto.my-4.bg4.px-2.m-1.p-1(data-aos="flip-down")
+                  h5.text-center.mb-0 Denuncia en las siguientes instituciones
               p Denuncie en cualquiera de las siguientes instituciones de forma directa
               ul.lista-ul.fa-ul
                 li 
@@ -288,8 +289,8 @@
           .tarjeta.bg5
             .p-4 
               .row.justify-content-center
-                .col-auto.mb-4.pt-4.bg4.px-2.m-1.p-1(data-aos="flip-down")
-                  h5.text-center Atención medica integral
+                .col-auto.my-4.bg4.px-2.m-1.p-1(data-aos="flip-down")
+                  h5.text-center.mb-0 Atención medica integral
               ul.lista-ul.fa-ul
                 li 
                   i.fas.fa-check-circle.color1
@@ -371,7 +372,7 @@
               .col-lg-8
                 .row.justify-content-center.align-items-center.bg13.text-white.brad.px-3.my-4(data-aos="flip-down")
                   .col-lg-auto.my-3
-                    img.img-a.img-t(src='@/assets/curso/temas/22.svg', alt='')                   
+                    img.img-a.img-t.beat(src='@/assets/curso/temas/22.svg', alt='')                   
                   .col.my-3
                     p(data-aos="fade-down").mb-0 No dude en buscar ayuda; el camino de las adicciones nunca aportará nada positivo a su vida.            
 

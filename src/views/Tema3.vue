@@ -24,12 +24,23 @@
               .col-lg-4.my-3
                 img.img-a.img-t(data-aos="flip-down")(src='@/assets/curso/temas/45.png', alt='')      
               .col-lg-8.my-3
-                p(data-aos="fade-down") El consumo de SPA ha sido una problemática que se ha abordado desde diversas miradas: individual, familiar, social y comunitaria. Para el presente programa queremos realizar un abordaje desde la perspectiva individual y familiar, que permita delimitar acciones específicas que ayuden a mitigar los riesgos. Según la reacción que generan sobre el sistema nervioso, reciben una clasificación así:                   
-                p(data-aos="fade-down") #[mark.bg16.brad2.px-3.p-1 Depresiones] #[mark.bg16.brad2.px-3.p-1 Estimulantes] #[mark.bg16.brad2.px-3.p-1 Alteradores de la percepción]
+                p(data-aos="fade-down") El consumo de SPA ha sido una problemática que se ha abordado desde diversas miradas: individual, familiar, social y comunitaria. Para el presente programa queremos realizar un abordaje desde la perspectiva individual y familiar, que permita delimitar acciones específicas que ayuden a mitigar los riesgos. Según la reacción que generan sobre el sistema nervioso, reciben una clasificación así: 
+                .row.mb-3
+                  .col-auto.p-1.my-1(data-aos="fade-down")
+                    .bg16.brad2.px-3.p-1 
+                      p.mb-0 Depresiones   
+                  .col-auto.p-1.my-1(data-aos="fade-down")
+                    .bg16.brad2.px-3.p-1 
+                      p.mb-0 Estimulantes 
+                  .col-auto.p-1.my-1(data-aos="fade-down")
+                    .bg16.brad2.px-3.p-1 
+                      p.mb-0 Alteradores de la percepción                                                                       
                 p(data-aos="fade-down") Cada sustancia tiene un efecto particular y cada consumidor busca la sustancia de acuerdo con las necesidades individuales que requiera satisfacer.
                 img.img-t.mov(src='@/assets/curso/temas/7.png', alt='') 
 
-            h5.my-5(data-aos="fade-down") #[mark.bg4.px-2.m-1.p-1.brad1 ¿Cómo mitigar entonces estos riesgos? ]  
+            .row.justify-content-start.my-5
+              .col-auto.bg4.px-2.m-1.p-1.brad1(data-aos="flip-down")
+                h5.text-center.mb-0 ¿Cómo mitigar entonces estos riesgos?   
 
             .row.bg12.align-items-center.mb-5
               .col-lg-12.col-12.px-lg-5.p-5 
@@ -81,44 +92,48 @@
                   .list__txt.bgicon.p-0.px-4
                     h3.mb-0 Guía para la realización del plan de acción personal  
 
-            h5.my-5(data-aos="fade-down") #[mark.bg4.px-2.m-1.p-1.brad1 Plan de acción en familia ] 
+            .row.justify-content-start.my-4
+              .col-auto.bg4.px-2.m-1.p-1.brad1(data-aos="flip-down")
+                h5.text-center.mb-0 Plan de acción en familia 
 
             p(data-aos="fade-down").mb-5 Lo siguiente es accionar, (#[b llevar a la práctica] ) mediante un plan que oriente, por ello la invitación para desarrollar el #[b autodiagnóstico], que permitirá identificar las condiciones propias de la vida, la individualidad, el entorno familiar y social, y que pueden estar afectando la salud y calidad de vida. Para orientar este autodiagnóstico, tenemos una serie de preguntas que responder, la invitación para que escriba en un texto y guarde sus respuestas: 
-            .row.justify-content-center
+            .row.justify-content-center.text-center
               .col-lg-8
-                .row.justify-content-center.bg9.p-3.brad.mb-4
-                  .col-lg-4.my-3
+                .row.justify-content-center.bg9.p-3.brad.mb-4(data-aos="fade-left")
+                  .col-lg-4.col-md-4.my-3
                     .bgw.p-2.h-100.brad
                       .row.justify-content-center.align-items-center
-                        .col-lg-auto
+                        .col-lg-auto.col-md-10
                           img.img-a.img-t(src='@/assets/curso/temas/51.png', alt="")
                         .col  
                           p.mb-0 ¿ Cómo me veo ?
-                  .col-lg-4.my-3
+                  .col-lg-4.col-md-4.my-3
                     .bgw.p-2.h-100.brad
                       .row.justify-content-center.align-items-center
-                        .col-lg-auto
+                        .col-lg-auto.col-md-10
                           img.img-a.img-t(src='@/assets/curso/temas/52.png', alt="")
                         .col  
                           p.mb-0 ¿ Cómo me siento Conmigo ?
-                  .col-lg-4.my-3
+                  .col-lg-4.col-md-4.my-3
                     .bgw.p-2.h-100.brad
                       .row.justify-content-center.align-items-center
-                        .col-lg-auto
+                        .col-lg-auto.col-md-10
                           img.img-a.img-t(src='@/assets/curso/temas/53.png', alt="")
                         .col  
                           p.mb-0 ¿ Qué pienso de mi ?
 
-                h5.my-5(data-aos="fade-down") #[mark.bg4.px-2.m-1.p-1.brad1 Mi mayor fortaleza]   
+                .row.justify-content-start.my-3
+                  .col-auto.bg4.px-2.m-1.p-1.brad1(data-aos="flip-down")
+                    h5.text-center.mb-0 Mi mayor fortaleza  
 
-                .row.justify-content-center.bg9.p-3.brad.mb-4
-                  .col-lg-4.my-3
+                .row.justify-content-center.bg9.p-3.brad.mb-4(data-aos="fade-right")
+                  .col-lg-4.col-md-4.my-3
                     .bgw.p-2.py-4.text-center.h-100.brad
                       p.mb-0 ¿ Qué debo mejorar ?
-                  .col-lg-4.my-3
+                  .col-lg-4.col-md-4.my-3
                     .bgw.p-2.py-4.text-center.h-100.brad
                       p.mb-0 ¿ Soy seguro de mi mismo ?
-                  .col-lg-4.my-3
+                  .col-lg-4.col-md-4.my-3
                     .bgw.p-2.py-4.text-center.h-100.brad
                       p.mb-0 ¿ Qué me gusta hacer ?
 
@@ -162,7 +177,7 @@
                 td ¿He hecho cosas que debo ocultar por mis amigos?         
                 td ¿Realizo ejercicio físico? ¿con qué frecuencia?
                 
-    .row.justify-content-start.mb-4
+    .row.justify-content-start.mb-4.pt-4
       .col-auto(data-aos="flip-down")
         .list
           .list__item
@@ -177,7 +192,7 @@
       .col-lg-10
         .row.justify-content-center.align-items-center.bg13.text-white.brad.px-3.my-4(data-aos="flip-down")
           .col-lg-auto.my-3
-            img.img-a.img-t(src='@/assets/curso/temas/22.svg', alt='')                   
+            img.img-a.img-t.beat(src='@/assets/curso/temas/22.svg', alt='')                   
           .col.my-3
             h5.t1(data-aos="fade-down") Para ello tendremos en cuenta que: 
             p(data-aos="fade-down").mb-0 Un objetivo es una acción realizable y medible, que se debe redactar con un verbo en infinitivo. Deben responder a lo que se quiere cambiar, mejorar, dejar sentir en los diferentes aspectos de la vida.
@@ -220,19 +235,19 @@
             .row.justify-content-center
               .col-lg-8
                 .row.justify-content-center.text-center.mb-4
-                  .col-lg-3.my-3
+                  .col-lg-3.col-md-6.my-3
                     .bg8.p-2.h-100.brad
                       img.img-a.img-t.mb-2(src='@/assets/curso/temas/56.png', alt="")
                       p.mb-0 En lo personal. 
-                  .col-lg-3.my-3
+                  .col-lg-3.col-md-6.my-3
                     .bg8.p-2.h-100.brad
                       img.img-a.img-t.mb-2(src='@/assets/curso/temas/57.png', alt="")
                       p.mb-0 En lo familiar 
-                  .col-lg-3.my-3
+                  .col-lg-3.col-md-6.my-3
                     .bg8.p-2.h-100.brad
                       img.img-a.img-t.mb-2(src='@/assets/curso/temas/58.png', alt="")
                       p.mb-0 En los hábitos de vida 
-                  .col-lg-3.my-3
+                  .col-lg-3.col-md-6.my-3
                     .bg8.p-2.h-100.brad
                       img.img-a.img-t.mb-2(src='@/assets/curso/temas/59.png', alt="")
                       p.mb-0 En lo social                       

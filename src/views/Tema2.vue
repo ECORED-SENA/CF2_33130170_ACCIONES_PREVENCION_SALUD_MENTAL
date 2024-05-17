@@ -73,43 +73,62 @@
             h3.mb-0 ¿Cuál es el papel de la familia en el desarrollo del amor propio?
     p(data-aos="fade-down") La familia está llamada a #[b enseñar a amar], esta es la #[b esencia de las relaciones humanas] y por sencillo que parezca, es la falla más común en las familias. 
 
-    h5.my-5(data-aos="fade-down") #[mark.bg4.px-2.m-1.p-1.brad1 ¿Por qué hay fallas en el sistema familiar? ]   
+    .row.justify-content-start.my-5
+      .col-auto.bg4.px-2.m-1.p-1.brad1(data-aos="flip-down")
+        h5.text-center.mb-0 ¿Por qué hay fallas en el sistema familiar?  
 
-    .row.mb-5
-      .col-sm-6.col-xl-4.mb-4.mb-xl-0
+    .row.justify-content-center.mb-5
+      .col-sm-11.col-xl-4.col-md-6.mb-4.mb-xl-0
         .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img.bg21
-              h5.py-5.text-center #[mark.px-3.m-1.p-1.bgw Experiencias propias] 
-              img.img-a.img-t(src='@/assets/curso/temas/32.svg', alt='')  
+              .p-4
+                .row.justify-content-center.mt-4
+                  .col-auto.my-4.bgw.px-2.m-1.p-1
+                    h5.text-center.mb-0 Experiencias propias 
+                img.img-a.img-t(src='@/assets/curso/temas/32.svg', alt='')  
             .tarjeta-flip__contenido.p-4.p-xl-5
-              h5.mb-4.text-center #[mark.bgw.px-3.m-1.p-1 Experiencias propias]
+              .row.justify-content-center
+                .col-auto.my-4.bgw.px-2.m-1.p-1(data-aos="flip-down")
+                  h5.text-center.mb-0 Experiencias propias
               p Cuando las personas han tenido historias de violencia intrafamiliar, abuso y maltrato, los patrones e imaginarios que se crean están enmarcados en este tipo de relaciones y por lo general es el modelo que se sigue al construir una nueva familia. Sin embargo, esto no es una condena, lo contrario también sucede, es decir, que se trata de hacer lo opuesto a lo que se vivió. 
 
-      .col-sm-6.col-xl-4.mb-4.mb-xl-0
+      .col-sm-11.col-xl-4.col-md-6.mb-4.mb-xl-0
         .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img.bg21
-              h5.py-5.text-center #[mark.px-3.m-1.p-1.bgw Entorno violento – historia como sociedad ] 
-              img.img-a.img-t(src='@/assets/curso/temas/33.svg', alt='')  
+              .p-4
+                .row.justify-content-center.mt-4
+                  .col-auto.my-4.bgw.px-2.m-1.p-1
+                    h5.text-center.mb-0 Entorno violento – historia como sociedad  
+                img.img-a.img-t(src='@/assets/curso/temas/33.svg', alt='')  
             .tarjeta-flip__contenido.p-4.p-xl-5
-              h5.mb-4.text-center #[mark.bgw.px-3.m-1.p-1 Entorno violento – historia como sociedad]
-              p Colombia se ha vivido marcada por una historia de violencia social, que ha enseñado a solucionar los conflictos, vía eliminación del otro. Se han naturalizado estas prácticas y se asumen como normales en muchos entornos. Pelear, tratar mal a las personas, ser agresivos, decir malas palabras, son actitudes que no se cuestionan. 
+              .row.justify-content-center
+                .col-auto.my-4.bgw.px-2.m-1.p-1(data-aos="flip-down")
+                  h5.text-center.mb-0 Entorno violento – historia como sociedad
+              p Colombia se ha vivido marcada por una historia de violencia social, que ha enseñado a solucionar los conflictos, vía eliminación del otro. Se han naturalizado estas prácticas y se asumen como normales en muchos entornos. Pelear, tratar mal a las personas, ser agresivos, decir malas palabras, son actitudes que no se cuestion.
 
-      .col-sm-6.col-xl-4.mb-4.mb-xl-0
+      .col-sm-11.col-xl-4.col-md-6.mb-4.mb-xl-0
         .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false")
           .indicador--hover(v-if="indicadorTarjetaFlip")
           .tarjeta-flip__contenedor
             .tarjeta-flip__img.bg21
-              h5.py-5.text-center #[mark.px-3.m-1.p-1.bgw Medios de comunicación] 
-              img.img-a.img-t(src='@/assets/curso/temas/34.svg', alt='')  
+              .p-4
+                .row.justify-content-center.mt-4
+                  .col-auto.my-4.bgw.px-2.m-1.p-1
+                    h5.text-center.mb-0 Medios de comunicación 
+                img.img-a.img-t(src='@/assets/curso/temas/34.svg', alt='')  
             .tarjeta-flip__contenido.p-4.p-xl-5
-              h5.mb-4.text-center #[mark.bgw.px-3.m-1.p-1.p-1 Medios de comunicación]
+              .row.justify-content-center
+                .col-auto.my-4.bgw.px-2.m-1.p-1(data-aos="flip-down")
+                  h5.text-center.mb-0 Medios de comunicación
               p Ejercen una influencia directa sobre la construcción de estereotipos, forma de hacer y ver las cosas. Noticias de violencia y abuso a diario, novelas que recrean formas de relación de pareja basadas en el desequilibrio y las marcadas relaciones de poder.  
 
-    h5.my-5(data-aos="fade-down") #[mark.bg4.px-2.m-1.p-1.brad1 ¿Qué se requiere de la familia para construir amor propio? ]
+    .row.justify-content-start.my-5
+      .col-auto.bg4.px-2.m-1.p-1.brad1(data-aos="flip-down")
+        h5.text-center.mb-0 ¿Qué se requiere de la familia para construir amor propio? 
 
     .row.bg12.align-items-center.mb-5
       .col-lg-12.col-12.px-lg-5.p-5 
@@ -200,15 +219,17 @@
       .col-lg-10
         .row.justify-content-center.align-items-center.bg13.text-white.brad.px-3.my-4(data-aos="flip-down")
           .col-lg-auto.my-3
-            img.img-a.img-t(src='@/assets/curso/temas/22.svg', alt='')                   
+            img.img-a.img-t.beat(src='@/assets/curso/temas/22.svg', alt='')                   
           .col.my-3
             p(data-aos="fade-down").mb-0 Ética del cuidado significa entonces observar con atención, denunciar, dialogar, involucrarse en los asuntos del otro, para preservar la vida e integridad de la persona.  
 
-    h5.my-5(data-aos="fade-down") #[mark.bg4.px-2.m-1.p-1.brad1 ¿Qué debemos cuidar? ]  
+    .row.justify-content-start.my-4
+      .col-auto.bg4.px-2.m-1.p-1.brad1(data-aos="flip-down")
+        h5.text-center.mb-0  ¿Qué debemos cuidar?  
 
     .row.justify-content-center.mb-4
-      .col-lg-5.my-3.p-0.bg5
-        img.img-a.img-t(src='@/assets/curso/temas/41.png', alt='')       
+      .col-lg-5.my-3.p-0.bg5.d-none.d-lg-block 
+        img.img-a.mov(src='@/assets/curso/temas/41.png', alt='')       
       .col-lg-7.my-3.p-0
         .bg5.h-100.j.p-4
           p(data-aos="fade-down").mb-0 En primera instancia debemos cuidar del cuerpo, como nuestro territorio más cercano, y esto nos lleva a desarrollar acciones y comportamientos de cuidado del cuerpo de los demás. Pero igualmente tenemos que cuidar la mente, que significa equilibrar nuestras pasiones para aplicarlas al desarrollo de un proyecto de vida coherente con nuestra condición humana. Igualmente cuidamos el espíritu, esa dimensión de nuestra vida que nos permite sentirnos parte de realidades abstractas como la humanidad y el universo, pero que en lo cotidiano se traduce en la vivencia de una ética autónoma. Finalmente, cuidamos el intelecto, mediante una actitud que nos permite desarrollar nuestros mejores talentos para ponerlos al servicio de nosotros mismos, de nuestra familia, nuestra comunidad, con una actitud solidaria y altruista. (Alcaldía Mayor de Bogotá, 2013. Orientaciones para la acción en cuidado y Autocuidado)
