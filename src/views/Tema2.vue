@@ -108,7 +108,7 @@
               .row.justify-content-center
                 .col-auto.my-4.bgw.px-2.m-1.p-1(data-aos="flip-down")
                   h5.text-center.mb-0 Entorno violento – historia como sociedad
-              p Colombia se ha vivido marcada por una historia de violencia social, que ha enseñado a solucionar los conflictos, vía eliminación del otro. Se han naturalizado estas prácticas y se asumen como normales en muchos entornos. Pelear, tratar mal a las personas, ser agresivos, decir malas palabras, son actitudes que no se cuestion.
+              p Colombia se ha vivido marcada por una historia de violencia social, que ha enseñado a solucionar los conflictos, vía eliminación del otro. Se han naturalizado estas prácticas y se asumen como normales en muchos entornos. Pelear, tratar mal a las personas, ser agresivos, decir malas palabras, son actitudes que no se cuestionan.
 
       .col-sm-11.col-xl-4.col-md-6.mb-4.mb-xl-0
         .tarjeta.tarjeta-flip(@mouseover="indicadorTarjetaFlip = false")

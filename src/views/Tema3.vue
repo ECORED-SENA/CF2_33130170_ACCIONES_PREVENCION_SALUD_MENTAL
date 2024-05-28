@@ -96,7 +96,7 @@
               .col-auto.bg4.px-2.m-1.p-1.brad1(data-aos="flip-down")
                 h5.text-center.mb-0 Plan de acción en familia 
 
-            p(data-aos="fade-down").mb-5 Lo siguiente es accionar, (#[b llevar a la práctica] ) mediante un plan que oriente, por ello la invitación para desarrollar el #[b autodiagnóstico], que permitirá identificar las condiciones propias de la vida, la individualidad, el entorno familiar y social, y que pueden estar afectando la salud y calidad de vida. Para orientar este autodiagnóstico, tenemos una serie de preguntas que responder, la invitación para que escriba en un texto y guarde sus respuestas: 
+            p(data-aos="fade-down").mb-5 Lo siguiente es accionar, (#[b llevar a la práctica]) mediante un plan que oriente, por ello la invitación para desarrollar el #[b autodiagnóstico], que permitirá identificar las condiciones propias de la vida, la individualidad, el entorno familiar y social, y que pueden estar afectando la salud y calidad de vida. Para orientar este autodiagnóstico, tenemos una serie de preguntas que responder, la invitación para que escriba en un texto y guarde sus respuestas: 
             .row.justify-content-center.text-center
               .col-lg-8
                 .row.justify-content-center.bg9.p-3.brad.mb-4(data-aos="fade-left")
@@ -106,21 +106,21 @@
                         .col-lg-auto.col-md-10
                           img.img-a.img-t(src='@/assets/curso/temas/51.png', alt="")
                         .col  
-                          p.mb-0 ¿ Cómo me veo ?
+                          p.mb-0 ¿Cómo me veo?
                   .col-lg-4.col-md-4.my-3
                     .bgw.p-2.h-100.brad
                       .row.justify-content-center.align-items-center
                         .col-lg-auto.col-md-10
                           img.img-a.img-t(src='@/assets/curso/temas/52.png', alt="")
                         .col  
-                          p.mb-0 ¿ Cómo me siento Conmigo ?
+                          p.mb-0 ¿Cómo me siento conmigo?
                   .col-lg-4.col-md-4.my-3
                     .bgw.p-2.h-100.brad
                       .row.justify-content-center.align-items-center
                         .col-lg-auto.col-md-10
                           img.img-a.img-t(src='@/assets/curso/temas/53.png', alt="")
                         .col  
-                          p.mb-0 ¿ Qué pienso de mi ?
+                          p.mb-0 ¿Qué pienso de mí?
 
                 .row.justify-content-start.my-3
                   .col-auto.bg4.px-2.m-1.p-1.brad1(data-aos="flip-down")
@@ -129,20 +129,20 @@
                 .row.justify-content-center.bg9.p-3.brad.mb-4(data-aos="fade-right")
                   .col-lg-4.col-md-4.my-3
                     .bgw.p-2.py-4.text-center.h-100.brad
-                      p.mb-0 ¿ Qué debo mejorar ?
+                      p.mb-0 ¿Qué debo mejorar?
                   .col-lg-4.col-md-4.my-3
                     .bgw.p-2.py-4.text-center.h-100.brad
-                      p.mb-0 ¿ Soy seguro de mi mismo ?
+                      p.mb-0 ¿Soy seguro de mí mismo?
                   .col-lg-4.col-md-4.my-3
                     .bgw.p-2.py-4.text-center.h-100.brad
-                      p.mb-0 ¿ Qué me gusta hacer ?
+                      p.mb-0 ¿Qué me gusta hacer?
 
-    h5.mb-5(data-aos="fade-down") Otras preguntas :  
+    h5.mb-5(data-aos="fade-down") Otras preguntas:  
     .row.justify-content-center.mb-4
       .col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Tabla 1.
-          span Sistemas de compras en línea
+          span Preguntas plan de acción personal
 
         .tabla-a.color-acento-contenido(data-aos="fade-left")
           table

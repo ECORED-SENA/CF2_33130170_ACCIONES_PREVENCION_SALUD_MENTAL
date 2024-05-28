@@ -44,7 +44,7 @@
                           | Línea de la Fiscalía  desde celular a la línea 122 o desde teléfono fijo al 018000919748.
                         li 
                           i.fas.fa-check-circle.color1
-                          | Página web policía nacional: www.policia.gov.co
+                          | Página web policía nacional: <a href="https://www.policia.gov.co/" target="_blank">www.policia.gov.co</a>
                         li 
                           i.fas.fa-check-circle.color1
                           | Línea 106 Secretaría Distrital de Salud.
@@ -152,7 +152,7 @@
                   | Línea de prevención del abuso sexual – 01 8000 91 80 80
                 li 
                   i.fas.fa-check-circle.color1
-                  | Página web policía nacional: www.policia.gov.co 
+                  | Página web policía nacional: <a href="https://www.policia.gov.co/" target="_blank">www.policia.gov.co</a>
                 li 
                   i.fas.fa-check-circle.color1
                   | Línea 106 Secretaría Distrital de Salud.
@@ -250,7 +250,7 @@
                   | Línea 123 emergencia Distrital o la línea de su ciudad.
                 li 
                   i.fas.fa-check-circle.color1
-                  | Página web policía nacional: www.policia.gov.co
+                  | Página web policía nacional: <a href="https://www.policia.gov.co/" target="_blank">www.policia.gov.co</a>
                 li 
                   i.fas.fa-check-circle.color1
                   | Línea 106 Secretaría Distrital de Salud.
@@ -356,7 +356,7 @@
                             p Se manifiesta cuando la persona es incapaz de cesar el consumo de la sustancia psicoactiva, lo cual se acompaña de alteraciones físicas como la ansiedad y cambios en el estado de ánimo, entre otros.
                           .col-lg-5.my-3.mb-4.mb-md-0
                             img.img-a.img-t(src='@/assets/curso/temas/20.png', alt="")                                                          
-            p(data-aos="fade-down") Reconocer estas diferencias es fundamental para identificar cuándo es necesario buscar ayuda personal o para otras personas en el entorno que estén incurriendo en el abuso de sustancias psicoactivas.
+
 
             .row.justify-content-center.mb-4(data-aos="fade-left")
               .col-lg-4.my-3            
@@ -444,13 +444,13 @@
                       | Línea 123 emergencia Distrital o la línea de su ciudad.
                     li 
                       i.fas.fa-check-circle.color1
-                      | CAI virtual: https://caivirtual.policia.gov.co/ 
+                      | CAI virtual: <a href="https://caivirtual.policia.gov.co/" target="_blank">https://caivirtual.policia.gov.co/</a>
                     li 
                       i.fas.fa-check-circle.color1
-                      | Página web policía nacional: https://www.policia.gov.co/ 
+                      | Página web policía nacional: <a href="https://www.policia.gov.co/" target="_blank">https://www.policia.gov.co/</a>
                     li 
                       i.fas.fa-check-circle.color1
-                      | Página web Fiscalía: https://www.fiscalia.gov.co/colombia/                   
+                      | Página web Fiscalía: <a href="https://www.fiscalia.gov.co/colombia/" target="_blank">https://www.fiscalia.gov.co/colombia/</a>       
            
 </template>
 

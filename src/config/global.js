@@ -84,7 +84,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/33130170_CF02_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -166,12 +166,6 @@ export default {
     },
   ],
   referencias: [
-    {
-      referencia:
-        'Alcaldía Mayor de Bogotá, Secretaría de Educación Distrital. (2014). Orientaciones para la acción en Cuidado y Autocuidado – Educación para la Ciudadanía y la Convivencia.',
-      link:
-        'http://www.redacademica.edu.co/archivos/redacademica/proyectos/pecc/centro_documentacion/caja_de_herramientas/serie_1_orientaciones/09_orientaciones_para_la_accion_en_cuidado_y_autocuidado.pdf ',
-    },
     {
       referencia:
         'Gutiérrez, M. Familia Buen Trato y Corresponsabilidad. Bogotá (2015). Asociación Afecto contra el maltrato Infantil. Presentación PPT.',
